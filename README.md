@@ -30,3 +30,14 @@
 
 #### Feature Importance
 - Feature Importance calculates how much the tree nodes that use that feature reduce impurity on average (across all trees in the forest).
+
+
+## Learn More
+
+Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io) to check out more contents!
+
+## Reference
+
+This repo is my learning journal following:
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly). Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9.
+- StatQuest: Decision Trees https://statquest.org/statquest-decision-trees/
