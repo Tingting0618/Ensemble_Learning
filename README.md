@@ -34,7 +34,7 @@
 
 ## Learn More
 
-Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io) to check out more contents!
+To learn more, please visit the Project Portfolio page at https://tingting0618.github.io
 
 ## Reference
 
