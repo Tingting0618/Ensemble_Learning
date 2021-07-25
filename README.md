@@ -5,6 +5,9 @@
     - Use the same training algorithm for every predictor and train them on different random subsets of the training set.
     - When sampling is performed with replacement, the method is bagging (bootstrapping aggregating). In statistics, resampling with replacement is called bootstrapping.
     - When sampling is performed without replacement, the method is pasting.
+
+![download](https://user-images.githubusercontent.com/44503223/126904459-3a1846e2-0174-4030-813e-98b30c972586.png)
+
 - boosting
     - Train predictors sequentially, each trying to correct its predecessor. 
     - **AdaBoost**: The algorithm then increases the relative weight of misclassified training instances. Then it trains a second classifier, using the updated weights, and again makes predictions on the training set, updates the instance weights.
